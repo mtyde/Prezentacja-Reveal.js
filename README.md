@@ -1,7 +1,13 @@
 Prezentacja-Reveal.js
 =====================
 
-Dyniowe Inspiracje Kulinarne
+#Gotowanie a w szczególności pieczenie to moja PASJA
 
-[Prezentacja](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne "Polecam")
+===========
+
+Polecam pyszne i proste potrawy z DYNI 
+
+[Dyniowe Inspiracje Kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne "Polecam")
+
+
 
